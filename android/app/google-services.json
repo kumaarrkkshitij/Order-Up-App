@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "961258065108",
+    "firebase_url": "https://order-up-87759-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "order-up-87759",
+    "storage_bucket": "order-up-87759.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961258065108:android:23f32d58edc3674438ff41",
+        "android_client_info": {
+          "package_name": "com.example.order_up_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATR6rT7WlQV1jsD319Ml7DzlzV0-ZSh_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
